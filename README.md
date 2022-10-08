@@ -1,1 +1,2 @@
 # protein-ligand-dissociation-gnn
+The field of biochemistry and biophysics often entertain the question of protein binding: given two biomolecules, a protein and a smaller molecule, which we call a ligand, can we predict where, in what 3-dimensional orientation, and how tightly-bound the ligand will be to the protein? One way to determine this is by experimentally measuring the aptly named dissociation constant, $k_\text{off}$. Here, we explore whether we can make accurately predict $k_\text{off}$ utilizing Graph Neural Networks (GNNs).
